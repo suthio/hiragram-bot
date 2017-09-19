@@ -6,7 +6,7 @@
   "description": "speee",
   "dependencies": {
     "crypto": "0.0.3",
-    "hubot": "^2.19.0",
+    "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-docomochatter": "^0.1.0",
     "hubot-google-images": "0.2.6",
@@ -26,6 +26,6 @@
     "ssh2": "^0.4.10"
   },
   "engines": {
-    "node": "v7.10.x"
+    "node": "0.10.x"
   }
 }
