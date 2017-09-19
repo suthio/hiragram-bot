@@ -1,0 +1,31 @@
+{
+  "name": "takeuchi-san",
+  "version": "0.0.1",
+  "private": true,
+  "author": "yuma.iwasaki <yuma.iwasaki@speee.jp>",
+  "description": "speee",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "hubot": "^2.13.2",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-docomochatter": "^0.1.0",
+    "hubot-google-images": "0.2.6",
+    "hubot-google-translate": "0.2.0",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.16.1",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "^3.3.0",
+    "hubot-sushiyuki": "0.0.11",
+    "hubot-totsuzen": "0.0.2",
+    "hubot-cron": "0.2.9",
+    "ssh2": "^0.4.10"
+  },
+  "engines": {
+    "node": "v7.10.x"
+  }
+}
