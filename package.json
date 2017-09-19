@@ -19,7 +19,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.4.0",
+    "hubot-slack": "^3.3.0",
     "hubot-sushiyuki": "0.0.11",
     "hubot-totsuzen": "0.0.2",
     "hubot-cron": "0.2.9",
