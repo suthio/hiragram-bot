@@ -7,7 +7,9 @@
   "dependencies": {
     "crypto": "0.0.3",
     "hubot": "^2.13.2",
+    "hubot-cron": "0.2.9",
     "hubot-diagnostics": "0.0.1",
+    "hubot-gif": "0.0.1",
     "hubot-google-images": "0.2.6",
     "hubot-google-translate": "0.2.0",
     "hubot-help": "^0.1.1",
@@ -21,7 +23,6 @@
     "hubot-slack": "^3.3.0",
     "hubot-sushiyuki": "0.0.11",
     "hubot-totsuzen": "0.0.2",
-    "hubot-cron": "0.2.9",
     "ssh2": "^0.4.10"
   },
   "engines": {
