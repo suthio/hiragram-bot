@@ -7,7 +7,6 @@
   "dependencies": {
     "crypto": "0.0.3",
     "hubot": "^2.13.2",
-    "hubot-cron": "0.2.9",
     "hubot-diagnostics": "0.0.1",
     "hubot-gif": "0.0.1",
     "hubot-google-images": "0.2.6",
