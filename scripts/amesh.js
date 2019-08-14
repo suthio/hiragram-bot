@@ -18,7 +18,7 @@ module.exports = ( robot => {
   robot.hear(/アメッシュ/, msg => {
     const ameshFilename = () => {
       const now = momentTz().tz("Asia/Tokyo").format("YYYYMMDDHHmm");
-      return (now - 1) - ((now - 1) % 5);
+      return (now) - (now % 5);
     };
 
     const backgroundMapURL = "https://tokyo-ame.jwa.or.jp/map/map050.jpg";
