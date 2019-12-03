@@ -27,7 +27,7 @@
     "hubot-totsuzen": "0.0.2",
     "sharp": "^0.23.0",
     "soupselect": "^0.2.0",
-    "ssh2": "^0.8.5"
+    "ssh2": "^0.8.7"
   },
   "engines": {
     "node": "10.15.3",
