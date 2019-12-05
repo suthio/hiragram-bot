@@ -25,7 +25,7 @@
     "hubot-slack": "^4.7.1",
     "hubot-sushiyuki": "0.0.11",
     "hubot-totsuzen": "0.0.2",
-    "sharp": "^0.23.0",
+    "sharp": "^0.23.4",
     "soupselect": "^0.2.0",
     "ssh2": "^0.8.5"
   },
