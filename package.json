@@ -27,7 +27,7 @@
     "sharp": "^0.24.0",
     "soupselect": "^0.2.0",
     "diff": ">=3.5.0",
-    "handlebars": ">=4.3.0",
+    "handlebars": ">=4.7.4",
     "lodash": ">=4.17.12",
     "ssh2": "^0.8.7"
   },
