@@ -28,7 +28,7 @@
     "soupselect": "^0.2.0",
     "diff": ">=3.5.0",
     "handlebars": ">=4.3.0",
-    "lodash": ">=4.17.12",
+    "lodash": ">=4.17.19",
     "ssh2": "^0.8.7"
   },
   "engines": {
