@@ -5,7 +5,7 @@
   "author": "yuma.iwasaki <yuma.iwasaki@speee.jp>",
   "description": "speee",
   "dependencies": {
-    "@slack/web-api": "^5.7.0",
+    "@slack/web-api": "^5.11.0",
     "crypto": "1.0.1",
     "fs": "0.0.1-security",
     "hubot": "^3.3.2",
