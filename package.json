@@ -26,7 +26,7 @@
     "hubot-totsuzen": "0.0.2",
     "sharp": "^0.24.0",
     "soupselect": "^0.2.0",
-    "diff": ">=3.5.0",
+    "diff": ">=5.0.0",
     "handlebars": ">=4.3.0",
     "lodash": ">=4.17.12",
     "ssh2": "^0.8.7"
