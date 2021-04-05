@@ -24,7 +24,7 @@
     "hubot-slack": "^4.7.1",
     "hubot-sushiyuki": "0.0.11",
     "hubot-totsuzen": "0.0.2",
-    "sharp": "^0.24.0",
+    "sharp": "^0.28.1",
     "soupselect": "^0.2.0",
     "diff": ">=3.5.0",
     "handlebars": ">=4.3.0",
